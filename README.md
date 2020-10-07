@@ -40,6 +40,7 @@
 
 <img align="left" width="26px" src="https://i.imgur.com/JiM5E4P.png" title="Python" />
 
+<img align="left" width="26px" src="https://image.flaticon.com/icons/png/512/226/226777.png" title="Java" />
 <br />
 
 ---
