@@ -6,15 +6,13 @@
 
 ### Connect with me:
 
-[<img align="left" width="22px" src="https://www.instagram.com/attu_patil/" />][website]
-[<img align="left" width="22px" src="https://www.linkedin.com/in/atharvaashokpatil/" />][linkedin]
-[<img align="left" width="22px" src="https://www.instagram.com/attu_patil/" />][instagram]
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-[website]: https://www.instagram.com/attu_patil/
-[instagram]: https://www.instagram.com/isadorarebelo/
+[website]: https://attupatil.pythonanywhere.com/
+[instagram]: https://www.instagram.com/attu_patil/
 [linkedin]: https://www.linkedin.com/in/atharvaashokpatil/
-
 <br />
 
 ### Languages and Tools:
@@ -28,3 +26,22 @@
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript" />
 
 <img align="left" width="26px" src="https://i.imgur.com/1k0llaH.png" title="C" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="Git" />
+
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" title="GitHub" />
+
+<br />
+
+### Exploring / Explored:
+
+<img align="left" width="26px" src="https://i.imgur.com/zQvqYuS.png" title="C#" />
+
+<img align="left" width="26px" src="https://i.imgur.com/oQPpTSM.png" title="Unity" />
+
+<img align="left" width="26px" src="https://i.imgur.com/JiM5E4P.png" title="Python" />
+
+<br />
+
+---
+
+<img align="center" alt="Attupatil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Attupatil&show_icons=true&theme=dark&count_private=true" />
