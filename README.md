@@ -44,10 +44,11 @@
 <br />
 
 ---
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 <img align="center" alt="Attupatil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Attupatil&show_icons=true&theme=dark&count_private=true" />
 
-<a href="https://github.com/Attupatil/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Attupatil&repo=github-readme-stats&theme=radical" />
-</a>    
+
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Attupatil&layout=compact&theme=radical" />
