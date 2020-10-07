@@ -46,3 +46,8 @@
 ---
 
 <img align="center" alt="Attupatil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Attupatil&show_icons=true&theme=dark&count_private=true" />
+
+<a href="https://github.com/Attupatil/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.attupatil.vercel.app/api/pin/?username=Attupatil&repo=github-readme-stats&theme=radical" />
+</a>    
